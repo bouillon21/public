@@ -5,7 +5,8 @@
     ],
     "branding": {
       "name": "Lebowski VPN by Bouillon",
-      "supportUrl": "https://t.me/bouillon_doma"
+      "supportUrl": "https://t.me/bouillon_doma",
+      "logoUrl": "https://remna.st/img/logo.svg"
     }
   },
   "platforms": {
